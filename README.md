@@ -60,3 +60,4 @@ O Angular CLI não vem com um framework de testes ponta a ponta por padrão. Voc
 
 Para mais informações sobre o uso do Angular CLI, incluindo referências detalhadas de comandos, visite a página [Visão Geral e Referência de Comandos do Angular CLI](https://angular.dev/tools/cli).
 "# e-commerce" 
+
