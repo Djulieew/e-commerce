@@ -11,3 +11,4 @@ import { Produto } from './components/produto/produto';
 export class App {
   protected readonly title = signal('e-commerce');
 }
+
