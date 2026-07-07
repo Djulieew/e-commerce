@@ -12,3 +12,4 @@ export class Produto {
   mostrarPreco = true;
   mostrarProduto = true;
 }
+
